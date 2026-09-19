@@ -21,7 +21,6 @@ Wanted to practice building a fully interactive dashboard from a large, real-wor
 Microsoft Excel (PivotTables, PivotCharts, slicers)
 
 ### File
-### File
 🔗 [View file on Google Drive](https://docs.google.com/spreadsheets/d/1Mhsngop7UY9w5hV4mBYxHKKeqceQ7jZT/edit?usp=drivesdk&ouid=112838768967844486243&rtpof=true&sd=true)
 
 ---
@@ -42,4 +41,4 @@ A simpler self-practice exercise to reinforce pivot table fundamentals on monthl
 Microsoft Excel (PivotTables)
 
 ### File
-`Joel_excel_project.xlsx`
+🔗 [View file on Google Drive](https://docs.google.com/spreadsheets/d/1C6JCsvg2h_dGr4bmFSzIH4gXaPuh6Buu/edit?usp=drivesdk&ouid=112838768967844486243&rtpof=true&sd=true)
