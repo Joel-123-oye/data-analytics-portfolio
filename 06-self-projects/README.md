@@ -21,7 +21,8 @@ Wanted to practice building a fully interactive dashboard from a large, real-wor
 Microsoft Excel (PivotTables, PivotCharts, slicers)
 
 ### File
-`Joel_Data_Analysis_Project_2.xlsx`
+### File
+🔗 [View file on Google Drive](https://docs.google.com/spreadsheets/d/1Mhsngop7UY9w5hV4mBYxHKKeqceQ7jZT/edit?usp=drivesdk&ouid=112838768967844486243&rtpof=true&sd=true)
 
 ---
 
