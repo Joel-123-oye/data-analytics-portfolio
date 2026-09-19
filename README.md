@@ -15,6 +15,8 @@ Data Analyst with 3+ years of hands-on experience turning raw data into clear, a
 | 03 | [Palladium Bank Data Model](./03-palladium-bank-data-model) | Designed a star schema for 18 months of bank transaction data | PostgreSQL, SQL, data modelling |
 | 04 | [Nigeria 2026 Federal Budget Investigation](./04-nigeria-2026-budget) | Analyzed federal budget data and built visualizations for public accountability reporting | Excel, data visualization |
 | 05 | [URPN Attendance & KPI Dashboards](./05-urpn-attendance-dashboards) | Ongoing dashboards tracking attendance/engagement for 100+ members | Power BI, Google Sheets |
+| 06 | [Personal Projects (Self-Directed)](./06-self-projects) | UK Road Traffic Accident Dashboard + Monthly Sales Trend Analysis | Microsoft Excel |
+| 07 | [Oasis Infobyte Internship](./07-oasis-infobyte-internship) | 8 tasks across EDA, clustering, sentiment analysis, predictive modeling, and NLP | Python, scikit-learn |
 
 ---
 
