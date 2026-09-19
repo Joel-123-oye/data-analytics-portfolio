@@ -24,4 +24,4 @@ _Add a screenshot of a dashboard here, e.g._
 `
 
 ## Files
-Add relevant dashboard files/exports to this folder and link them here.
+🔗 [View live attendance & KPI dashboard](https://docs.google.com/spreadsheets/d/1jcwjvVFxWjTDYHKsS5F7DGC9MHMawOf-M7L3TD2dLes/edit?usp=drivesdk)
